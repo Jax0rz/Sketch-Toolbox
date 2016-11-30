@@ -448,7 +448,8 @@
 				ORGANIZATIONNAME = "Shahruz Shaukat";
 				TargetAttributes = {
 					EA86F5C9192AB55F00B834ED = {
-						DevelopmentTeam = XR7252WCGK;
+						DevelopmentTeam = 39CXH39XUK;
+						ProvisioningStyle = Automatic;
 					};
 				};
 			};
@@ -640,7 +641,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = 39CXH39XUK;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -657,7 +660,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = 39CXH39XUK;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
